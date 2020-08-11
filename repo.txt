@@ -1,1 +1,4 @@
-t
+
+Dr bees list is a business platform for dental services where dentist’s offer their services and patients book appointments online. This is a full stack web application built and developed using angular 8 and asp.net core. MSSql database was used. And the app is deployed to azure.  The app has three types of use. Google maps API was used to build custom google map. Stripe was used for payment gateway.
+
+URL: https://brdee.azurewebsites.net/
